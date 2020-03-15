@@ -13,7 +13,7 @@
 <channel>
 	<title>Courses &#8211; Ali Ghassan</title>
 	<atom:link href="http://localhost/ali-site/product-category/courses/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>http://www.visuallyroxanne/alighassan</link>
 	<description></description>
 	<lastBuildDate>Thu, 12 Mar 2020 22:03:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,44 +24,44 @@
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 	<item>
 		<title>Barque Method 101</title>
-		<link>/product/barque-method-101/</link>
-				<comments>/product/barque-method-101/#respond</comments>
+		<link>http://www.visuallyroxanne/alighassan/product/barque-method-101/</link>
+				<comments>http://www.visuallyroxanne/alighassan/product/barque-method-101/#respond</comments>
 				<pubDate>Thu, 12 Mar 2020 22:02:06 +0000</pubDate>
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		
-		<guid isPermaLink="false">/?post_type=product&#038;p=432</guid>
+		<guid isPermaLink="false">http://www.visuallyroxanne/alighassan/?post_type=product&#038;p=432</guid>
 				<description><![CDATA[Introductory course about Bargue method.]]></description>
 								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur diam nulla, tempor ante ac, cursus eros. Nunc id mauris risus. Fusce sit amet elit commodo, maximus massa sed, imperdiet turpis. Phasellus vehicula vulputate purus et facilisis. Phasellus vehicula felis nisl, nec pulvinar ipsum rutrum et. Sed aliquam lectus felis, vitae pharetra ex elementum non. Integer rutrum sapien ac tellus auctor vehicula. Nullam eu mi venenatis, molestie nibh eu, pretium erat. Proin malesuada ipsum mauris, quis dapibus magna finibus eget. Vivamus nisi mi, efficitur tempor iaculis eu, elementum eget nibh</p>
 ]]></content:encoded>
-							<wfw:commentRss>/product/barque-method-101/feed/</wfw:commentRss>
+							<wfw:commentRss>http://www.visuallyroxanne/alighassan/product/barque-method-101/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Sketch Painting Basics</title>
-		<link>/product/sketch-painting-basics/</link>
-				<comments>/product/sketch-painting-basics/#respond</comments>
+		<link>http://www.visuallyroxanne/alighassan/product/sketch-painting-basics/</link>
+				<comments>http://www.visuallyroxanne/alighassan/product/sketch-painting-basics/#respond</comments>
 				<pubDate>Thu, 12 Mar 2020 21:59:58 +0000</pubDate>
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		
-		<guid isPermaLink="false">/?post_type=product&#038;p=431</guid>
+		<guid isPermaLink="false">http://www.visuallyroxanne/alighassan/?post_type=product&#038;p=431</guid>
 				<description><![CDATA[Course about sketch painting for beginners.]]></description>
 								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur diam nulla, tempor ante ac, cursus eros. Nunc id mauris risus. Fusce sit amet elit commodo, maximus massa sed, imperdiet turpis. Phasellus vehicula vulputate purus et facilisis. Phasellus vehicula felis nisl, nec pulvinar ipsum rutrum et. Sed aliquam lectus felis, vitae pharetra ex elementum non. Integer rutrum sapien ac tellus auctor vehicula. Nullam eu mi venenatis, molestie nibh eu, pretium erat. Proin malesuada ipsum mauris, quis dapibus magna finibus eget. Vivamus nisi mi, efficitur tempor iaculis eu, elementum eget nibh</p>
 ]]></content:encoded>
-							<wfw:commentRss>/product/sketch-painting-basics/feed/</wfw:commentRss>
+							<wfw:commentRss>http://www.visuallyroxanne/alighassan/product/sketch-painting-basics/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Watercolor For Beginners</title>
-		<link>/product/watercolor-for-beginners/</link>
-				<comments>/product/watercolor-for-beginners/#respond</comments>
+		<link>http://www.visuallyroxanne/alighassan/product/watercolor-for-beginners/</link>
+				<comments>http://www.visuallyroxanne/alighassan/product/watercolor-for-beginners/#respond</comments>
 				<pubDate>Fri, 28 Feb 2020 05:59:14 +0000</pubDate>
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		
-		<guid isPermaLink="false">/?post_type=product&#038;p=387</guid>
+		<guid isPermaLink="false">http://www.visuallyroxanne/alighassan/?post_type=product&#038;p=387</guid>
 				<description><![CDATA[Course about watercolor for beginners.]]></description>
 								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur diam nulla, tempor ante ac, cursus eros. Nunc id mauris risus. Fusce sit amet elit commodo, maximus massa sed, imperdiet turpis. Phasellus vehicula vulputate purus et facilisis. Phasellus vehicula felis nisl, nec pulvinar ipsum rutrum et. Sed aliquam lectus felis, vitae pharetra ex elementum non. Integer rutrum sapien ac tellus auctor vehicula. Nullam eu mi venenatis, molestie nibh eu, pretium erat. Proin malesuada ipsum mauris, quis dapibus magna finibus eget. Vivamus nisi mi, efficitur tempor iaculis eu, elementum eget nibh</p>
 ]]></content:encoded>
-							<wfw:commentRss>/product/watercolor-for-beginners/feed/</wfw:commentRss>
+							<wfw:commentRss>http://www.visuallyroxanne/alighassan/product/watercolor-for-beginners/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

@@ -13,7 +13,7 @@
 <channel>
 	<title>News &#8211; Ali Ghassan</title>
 	<atom:link href="http://localhost/ali-site/category/news/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>http://www.visuallyroxanne/alighassan</link>
 	<description></description>
 	<lastBuildDate>Fri, 06 Mar 2020 17:24:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,14 +24,14 @@
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 	<item>
 		<title>Workshop</title>
-		<link>/2020/02/24/workshop/</link>
-				<comments>/2020/02/24/workshop/#respond</comments>
+		<link>http://www.visuallyroxanne/alighassan/2020/02/24/workshop/</link>
+				<comments>http://www.visuallyroxanne/alighassan/2020/02/24/workshop/#respond</comments>
 				<pubDate>Mon, 24 Feb 2020 04:31:09 +0000</pubDate>
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[Upcoming Event]]></category>
 
-		<guid isPermaLink="false">/?p=367</guid>
+		<guid isPermaLink="false">http://www.visuallyroxanne/alighassan/?p=367</guid>
 				<description><![CDATA[Location Date February 21, 2018 Time 2:30 PM &#8211; 5:00 PM Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur diam nulla, tempor ante ac, cursus eros. Nunc id mauris risus. Fusce sit amet elit commodo, maximus massa sed, imperdiet turpis. Phasellus vehicula vulputate purus et facilisis. Phasellus vehicula felis nisl, nec pulvinar ipsum [&#8230;]]]></description>
 								<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="367" class="elementor elementor-367" data-elementor-settings="[]">
 			<div class="elementor-inner">
@@ -147,7 +147,7 @@
 		<div class="row">
 			<div class="left">
 				<div class="featured-image">
-					<img width="150" height="150" src="/wp-content/uploads/2020/02/pink-black-and-yellow-abstract-painting-2911521-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="/wp-content/uploads/2020/02/pink-black-and-yellow-abstract-painting-2911521-150x150.jpg 150w, /wp-content/uploads/2020/02/pink-black-and-yellow-abstract-painting-2911521-scaled-300x300.jpg 300w, /wp-content/uploads/2020/02/pink-black-and-yellow-abstract-painting-2911521-scaled-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />				</div>
+					<img width="150" height="150" src="http://www.visuallyroxanne/alighassan/wp-content/uploads/2020/02/pink-black-and-yellow-abstract-painting-2911521-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.visuallyroxanne/alighassan/wp-content/uploads/2020/02/pink-black-and-yellow-abstract-painting-2911521-150x150.jpg 150w, http://www.visuallyroxanne/alighassan/wp-content/uploads/2020/02/pink-black-and-yellow-abstract-painting-2911521-scaled-300x300.jpg 300w, http://www.visuallyroxanne/alighassan/wp-content/uploads/2020/02/pink-black-and-yellow-abstract-painting-2911521-scaled-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />				</div>
 			</div>
 			<div class="right">
 				<h2 class="entry-title">Illustrator Workshop</h2>
@@ -159,7 +159,7 @@
 					<div class="align-right">
 
 						<div class="elementor-button-wrapper">
-							<a href="/2020/02/29/illustrator-workshop/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+							<a href="http://www.visuallyroxanne/alighassan/2020/02/29/illustrator-workshop/" class="elementor-button-link elementor-button elementor-size-md" role="button">
 										<span class="elementor-button-content-wrapper">
 										<span class="elementor-button-icon elementor-align-icon-right">
 								<i aria-hidden="true" class="fas fa-angle-right"></i>			</span>
@@ -182,7 +182,7 @@
 		<div class="row">
 			<div class="left">
 				<div class="featured-image">
-					<img width="150" height="150" src="/wp-content/uploads/2020/01/abstract-architecture-art-art-exhibition-297494-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="/wp-content/uploads/2020/01/abstract-architecture-art-art-exhibition-297494-150x150.jpg 150w, /wp-content/uploads/2020/01/abstract-architecture-art-art-exhibition-297494-scaled-300x300.jpg 300w, /wp-content/uploads/2020/01/abstract-architecture-art-art-exhibition-297494-scaled-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />				</div>
+					<img width="150" height="150" src="http://www.visuallyroxanne/alighassan/wp-content/uploads/2020/01/abstract-architecture-art-art-exhibition-297494-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.visuallyroxanne/alighassan/wp-content/uploads/2020/01/abstract-architecture-art-art-exhibition-297494-150x150.jpg 150w, http://www.visuallyroxanne/alighassan/wp-content/uploads/2020/01/abstract-architecture-art-art-exhibition-297494-scaled-300x300.jpg 300w, http://www.visuallyroxanne/alighassan/wp-content/uploads/2020/01/abstract-architecture-art-art-exhibition-297494-scaled-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />				</div>
 			</div>
 			<div class="right">
 				<h2 class="entry-title">Saks Gallery Showing</h2>
@@ -194,7 +194,7 @@
 					<div class="align-right">
 
 						<div class="elementor-button-wrapper">
-							<a href="/2020/02/24/saks-gallery-showing/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+							<a href="http://www.visuallyroxanne/alighassan/2020/02/24/saks-gallery-showing/" class="elementor-button-link elementor-button elementor-size-md" role="button">
 										<span class="elementor-button-content-wrapper">
 										<span class="elementor-button-icon elementor-align-icon-right">
 								<i aria-hidden="true" class="fas fa-angle-right"></i>			</span>
@@ -221,18 +221,18 @@
 			</div>
 		</div>
 		]]></content:encoded>
-							<wfw:commentRss>/2020/02/24/workshop/feed/</wfw:commentRss>
+							<wfw:commentRss>http://www.visuallyroxanne/alighassan/2020/02/24/workshop/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Most Interesting Piece Award</title>
-		<link>/2020/02/24/most-interesting-piece-award/</link>
-				<comments>/2020/02/24/most-interesting-piece-award/#respond</comments>
+		<link>http://www.visuallyroxanne/alighassan/2020/02/24/most-interesting-piece-award/</link>
+				<comments>http://www.visuallyroxanne/alighassan/2020/02/24/most-interesting-piece-award/#respond</comments>
 				<pubDate>Mon, 24 Feb 2020 02:58:25 +0000</pubDate>
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 				<category><![CDATA[News]]></category>
 
-		<guid isPermaLink="false">/?p=330</guid>
+		<guid isPermaLink="false">http://www.visuallyroxanne/alighassan/?p=330</guid>
 				<description><![CDATA[Title January 1, 2019 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla [&#8230;]]]></description>
 								<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="330" class="elementor elementor-330" data-elementor-settings="[]">
 			<div class="elementor-inner">
@@ -350,18 +350,18 @@
 			</div>
 		</div>
 		]]></content:encoded>
-							<wfw:commentRss>/2020/02/24/most-interesting-piece-award/feed/</wfw:commentRss>
+							<wfw:commentRss>http://www.visuallyroxanne/alighassan/2020/02/24/most-interesting-piece-award/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Featured in O Magazine</title>
-		<link>/2020/02/24/featured-in-o-magazine/</link>
-				<comments>/2020/02/24/featured-in-o-magazine/#respond</comments>
+		<link>http://www.visuallyroxanne/alighassan/2020/02/24/featured-in-o-magazine/</link>
+				<comments>http://www.visuallyroxanne/alighassan/2020/02/24/featured-in-o-magazine/#respond</comments>
 				<pubDate>Mon, 24 Feb 2020 02:48:53 +0000</pubDate>
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 				<category><![CDATA[News]]></category>
 
-		<guid isPermaLink="false">/?p=324</guid>
+		<guid isPermaLink="false">http://www.visuallyroxanne/alighassan/?p=324</guid>
 				<description><![CDATA[Title January 1, 2019 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla [&#8230;]]]></description>
 								<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="324" class="elementor elementor-324" data-elementor-settings="[]">
 			<div class="elementor-inner">
@@ -479,18 +479,18 @@
 			</div>
 		</div>
 		]]></content:encoded>
-							<wfw:commentRss>/2020/02/24/featured-in-o-magazine/feed/</wfw:commentRss>
+							<wfw:commentRss>http://www.visuallyroxanne/alighassan/2020/02/24/featured-in-o-magazine/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Featured Artist</title>
-		<link>/2020/02/24/featured-artist/</link>
-				<comments>/2020/02/24/featured-artist/#respond</comments>
+		<link>http://www.visuallyroxanne/alighassan/2020/02/24/featured-artist/</link>
+				<comments>http://www.visuallyroxanne/alighassan/2020/02/24/featured-artist/#respond</comments>
 				<pubDate>Mon, 24 Feb 2020 02:42:31 +0000</pubDate>
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 				<category><![CDATA[News]]></category>
 
-		<guid isPermaLink="false">/?p=316</guid>
+		<guid isPermaLink="false">http://www.visuallyroxanne/alighassan/?p=316</guid>
 				<description><![CDATA[Title January 1, 2019 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla [&#8230;]]]></description>
 								<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="316" class="elementor elementor-316" data-elementor-settings="[]">
 			<div class="elementor-inner">
@@ -608,7 +608,7 @@
 			</div>
 		</div>
 		]]></content:encoded>
-							<wfw:commentRss>/2020/02/24/featured-artist/feed/</wfw:commentRss>
+							<wfw:commentRss>http://www.visuallyroxanne/alighassan/2020/02/24/featured-artist/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

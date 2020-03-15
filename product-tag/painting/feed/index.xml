@@ -13,7 +13,7 @@
 <channel>
 	<title>painting &#8211; Ali Ghassan</title>
 	<atom:link href="http://localhost/ali-site/product-tag/painting/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>http://www.visuallyroxanne/alighassan</link>
 	<description></description>
 	<lastBuildDate>Thu, 12 Mar 2020 21:57:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 	<item>
 		<title>Keira Knightly</title>
-		<link>/product/keira-knightly/</link>
-				<comments>/product/keira-knightly/#respond</comments>
+		<link>http://www.visuallyroxanne/alighassan/product/keira-knightly/</link>
+				<comments>http://www.visuallyroxanne/alighassan/product/keira-knightly/#respond</comments>
 				<pubDate>Fri, 28 Feb 2020 05:00:59 +0000</pubDate>
 		<dc:creator><![CDATA[roxanne]]></dc:creator>
 		
-		<guid isPermaLink="false">/?post_type=product&#038;p=378</guid>
+		<guid isPermaLink="false">http://www.visuallyroxanne/alighassan/?post_type=product&#038;p=378</guid>
 				<description><![CDATA[Original oil painting by world renowned artist, Ali Ghassan.]]></description>
 								<content:encoded><![CDATA[<p>Original painting of Keira Knightly</p>
 ]]></content:encoded>
-							<wfw:commentRss>/product/keira-knightly/feed/</wfw:commentRss>
+							<wfw:commentRss>http://www.visuallyroxanne/alighassan/product/keira-knightly/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
