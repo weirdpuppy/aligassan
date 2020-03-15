@@ -1,0 +1,190 @@
+/* 
+Theme Name:		 ali
+Theme URI:		 http://childtheme-generator.com/
+Description:	 ali is a child theme of OceanWP, created by ChildTheme-Generator.com
+Author:			 Roxanne Coburn
+Author URI:		 http://childtheme-generator.com/
+Template:		 oceanwp
+Version:		 1.0.0
+Text Domain:	 ali
+*/
+
+
+/*
+    Add your custom styles here
+*/
+
+.page-header .page-header-title { display: none; }
+header.page-header {
+    padding: 0!important;
+}
+
+div#content-wrap {
+    padding-top: 0px!important;
+}
+
+.image-block {
+    width: 100%;
+}
+
+.image-block img {  
+    max-height: 150px; min-width: 100%; object-fit: cover;
+}
+
+a.wp-block-button__link {
+    font-size: 14px;
+    padding: 10px 30px;
+}
+
+.pinched {
+    padding: 20px;
+}
+
+.header-top.clr {
+    box-shadow: none!important;
+    -webkit-box-shadow: none!important;
+}
+
+div#search-toggle {
+    border: 0!important;
+}
+
+.subtitle { font-weight: 300 }
+
+.elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated {
+    padding: 10px 0px!important;
+}
+
+a.menu-link {
+    font-size: 18px!important;
+}
+
+nav.site-breadcrumbs.clr.position-under-title {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+figcaption.widget-image-caption.wp-caption-text {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background: rgba(255,255,255,.8);
+    padding: 10px 30px;
+    font-style: normal;
+    color: black;
+}
+figcaption.widget-image-caption.wp-caption-text:hover {
+    opacity: .5;
+    cursor: pointer;
+    transition: 1s;
+}
+
+a.mobile-menu {
+    font-size: 18px!important;
+}
+
+#footer-widgets {
+    background-color: #505050!important;
+}
+
+#hide {
+    display: none;
+}
+
+.gallery-caption {
+    background: none!important;
+    font-size: 21px!important;
+    font-style: normal!important;
+    padding-top: 10px!important;
+}
+
+.slider {
+    width: 110%!important;
+    margin-left: -5%;
+}
+
+.learn-link {
+     text-decoration: underline;
+}
+
+.light-link { 
+    color: white;
+}
+
+
+#footer-widgets label.wpforms-field-label {
+    color: white;
+}
+
+#footer-widgets label.wpforms-field-sublabel.after {
+    color: white;
+}
+
+button#wpforms-submit-109 {
+    background: #de5a49;
+}
+
+.gallery .gallery-item { transition: all .2s ease-in-out; }
+.gallery .gallery-item:hover{ transform: scale(1.1); }
+
+
+.row {
+    display: flex!important;
+    padding-bottom: 50px;
+}
+
+.left {
+    float: left;
+    min-width: 200px!important;
+}
+
+.entry-summary {
+    opacity: .6;
+}
+
+.right {
+    float: right;
+}
+
+.align-right {
+    float: right!important;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+ul.meta.clr {
+    display: none;
+}
+
+.single-post-title.entry-title {
+    border: 0!important;
+    padding: 0!important;
+}
+
+.count {
+    display: none;
+}
+
+header.page-header.background-image-page-header {
+    width: 90%!important;
+    margin: auto!important;
+    margin-bottom: 50px!important;
+    height: 300px!important;
+}
+
+.clr.page-subheading {
+    font-weight: 800!important;
+    font-size: 5em!important;
+    text-transform: uppercase!important;
+}
+
+.centered-row .span_1_of_4 {
+    width: 33.3333%!important;
+}
+
+.event-slider {
+    height: fit-content!important;
+}

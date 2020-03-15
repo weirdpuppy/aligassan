@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Events &#8211; Ali Ghassan</title>
+	<atom:link href="http://localhost/ali-site/category/events/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 03 Mar 2020 21:29:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>Illustrator Workshop</title>
+		<link>/2020/02/29/illustrator-workshop/</link>
+				<comments>/2020/02/29/illustrator-workshop/#respond</comments>
+				<pubDate>Sat, 29 Feb 2020 20:01:24 +0000</pubDate>
+		<dc:creator><![CDATA[roxanne]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Upcoming Event]]></category>
+
+		<guid isPermaLink="false">/?p=403</guid>
+				<description><![CDATA[2/25/2020 Location 123 Work Street Time 2:30 PM &#8211; 5:00 PM Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur diam nulla, tempor ante ac, cursus eros. Nunc id mauris risus. Fusce sit amet elit commodo, maximus massa sed, imperdiet turpis. Phasellus vehicula vulputate purus et facilisis. Phasellus vehicula felis nisl, nec pulvinar ipsum [&#8230;]]]></description>
+								<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="403" class="elementor elementor-403" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-3c921097 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3c921097" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-739537ce elementor-column elementor-col-100 elementor-top-column" data-id="739537ce" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-176a4b01 elementor-widget elementor-widget-heading" data-id="176a4b01" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">2/25/2020</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-566d0c4a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="566d0c4a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-733e493f elementor-column elementor-col-50 elementor-top-column" data-id="733e493f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7d7d95a4 elementor-widget elementor-widget-heading" data-id="7d7d95a4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Location</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3ec79342 elementor-widget elementor-widget-heading" data-id="3ec79342" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">123 Work Street</h4>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-72239c12 elementor-column elementor-col-50 elementor-top-column" data-id="72239c12" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3398554 elementor-widget elementor-widget-heading" data-id="3398554" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Time</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-63f8295a elementor-widget elementor-widget-heading" data-id="63f8295a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">2:30 PM - 5:00 PM</h4>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-290ab168 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="290ab168" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2376c2fd elementor-column elementor-col-100 elementor-top-column" data-id="2376c2fd" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2f03ae8e elementor-widget elementor-widget-text-editor" data-id="2f03ae8e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur diam nulla, tempor ante ac, cursus eros. Nunc id mauris risus.</p><p>Fusce sit amet elit commodo, maximus massa sed, imperdiet turpis. Phasellus vehicula vulputate purus et facilisis. Phasellus vehicula felis nisl, nec pulvinar ipsum rutrum et. Sed aliquam lectus felis, vitae pharetra ex elementum non. Integer rutrum sapien ac tellus auctor vehicula.</p><p>Nullam eu mi venenatis, molestie nibh eu, pretium erat. Proin malesuada ipsum mauris, quis dapibus magna finibus eget. Vivamus nisi mi, efficitur tempor iaculis eu, elementum eget nibh</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		]]></content:encoded>
+							<wfw:commentRss>/2020/02/29/illustrator-workshop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Saks Gallery Showing</title>
+		<link>/2020/02/24/saks-gallery-showing/</link>
+				<comments>/2020/02/24/saks-gallery-showing/#respond</comments>
+				<pubDate>Mon, 24 Feb 2020 04:13:10 +0000</pubDate>
+		<dc:creator><![CDATA[roxanne]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Upcoming Event]]></category>
+
+		<guid isPermaLink="false">/?p=346</guid>
+				<description><![CDATA[Location Date February 21, 2018 Time 2:30 PM &#8211; 5:00 PM Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur diam nulla, tempor ante ac, cursus eros. Nunc id mauris risus. Fusce sit amet elit commodo, maximus massa sed, imperdiet turpis. Phasellus vehicula vulputate purus et facilisis. Phasellus vehicula felis nisl, nec pulvinar ipsum [&#8230;]]]></description>
+								<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="346" class="elementor elementor-346" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-3ea2a0f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3ea2a0f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-20229dcc elementor-column elementor-col-100 elementor-top-column" data-id="20229dcc" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5376dc8c elementor-widget elementor-widget-heading" data-id="5376dc8c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Location</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6b7ad4c9 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6b7ad4c9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2f9f0ec7 elementor-column elementor-col-50 elementor-top-column" data-id="2f9f0ec7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4c311794 elementor-widget elementor-widget-heading" data-id="4c311794" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Date</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-75254bce elementor-widget elementor-widget-heading" data-id="75254bce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">February 21, 2018</h4>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-3f10a8d5 elementor-column elementor-col-50 elementor-top-column" data-id="3f10a8d5" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-36891a84 elementor-widget elementor-widget-heading" data-id="36891a84" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Time</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-157e7211 elementor-widget elementor-widget-heading" data-id="157e7211" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">2:30 PM - 5:00 PM</h4>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-59cd47de elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="59cd47de" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-359fa6f2 elementor-column elementor-col-100 elementor-top-column" data-id="359fa6f2" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-784720ec elementor-widget elementor-widget-text-editor" data-id="784720ec" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur diam nulla, tempor ante ac, cursus eros. Nunc id mauris risus.</p><p>Fusce sit amet elit commodo, maximus massa sed, imperdiet turpis. Phasellus vehicula vulputate purus et facilisis. Phasellus vehicula felis nisl, nec pulvinar ipsum rutrum et. Sed aliquam lectus felis, vitae pharetra ex elementum non. Integer rutrum sapien ac tellus auctor vehicula.</p><p>Nullam eu mi venenatis, molestie nibh eu, pretium erat. Proin malesuada ipsum mauris, quis dapibus magna finibus eget. Vivamus nisi mi, efficitur tempor iaculis eu, elementum eget nibh</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-18939a8a elementor-align-right elementor-widget elementor-widget-button" data-id="18939a8a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">SIGN UP</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7828a390 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7828a390" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3f4aae93 elementor-column elementor-col-100 elementor-top-column" data-id="3f4aae93" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5c68859a elementor-widget elementor-widget-heading" data-id="5c68859a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Upcoming Events</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6b490074 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6b490074" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-267dd14d elementor-column elementor-col-100 elementor-top-column" data-id="267dd14d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-538c1ac elementor-widget elementor-widget-text-editor" data-id="538c1ac" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><!-- Note: if you make changes to this file, move it to your current theme's
+	directory so this file won't be overwritten when the plugin is upgraded. -->
+
+<!-- Start of Post Wrap -->
+<div class="post hentry ivycat-post">
+
+		<div class="row">
+			<div class="left">
+				<div class="featured-image">
+					<img width="150" height="150" src="/wp-content/uploads/2020/02/pink-black-and-yellow-abstract-painting-2911521-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="/wp-content/uploads/2020/02/pink-black-and-yellow-abstract-painting-2911521-150x150.jpg 150w, /wp-content/uploads/2020/02/pink-black-and-yellow-abstract-painting-2911521-scaled-300x300.jpg 300w, /wp-content/uploads/2020/02/pink-black-and-yellow-abstract-painting-2911521-scaled-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />				</div>
+			</div>
+			<div class="right">
+				<h2 class="entry-title">Illustrator Workshop</h2>
+				<div class="entry-summary">
+					<p>2/25/2020 Location 123 Work Street Time 2:30 PM &#8211; 5:00 PM Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur diam nulla, tempor ante ac, cursus eros. Nunc id mauris risus. Fusce sit amet elit commodo, maximus massa sed, imperdiet turpis. Phasellus vehicula vulputate purus et facilisis. Phasellus vehicula felis nisl, nec pulvinar ipsum [&hellip;]</p>
+				</div>
+				<!-- <div class="elementor-element elementor-align-right elementor-widget elementor-widget-button" data-element_type="widget" data-widget_type="button.default">
+					<div class="elementor-widget-container"> -->
+					<div class="align-right">
+
+						<div class="elementor-button-wrapper">
+							<a href="/2020/02/29/illustrator-workshop/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+										<span class="elementor-button-content-wrapper">
+										<span class="elementor-button-icon elementor-align-icon-right">
+								<i aria-hidden="true" class="fas fa-angle-right"></i>			</span>
+										<span class="elementor-button-text uppercase">Read More</span>
+						</span>
+									</a>
+						</div>
+					</div>
+				</div>
+				<!-- </div>
+			</div> -->
+		</div>
+</div>
+<!-- // End of Post Wrap --><!-- Note: if you make changes to this file, move it to your current theme's
+	directory so this file won't be overwritten when the plugin is upgraded. -->
+
+<!-- Start of Post Wrap -->
+<div class="post hentry ivycat-post">
+
+		<div class="row">
+			<div class="left">
+				<div class="featured-image">
+					<img width="150" height="150" src="/wp-content/uploads/2020/01/abstract-architecture-art-art-exhibition-297494-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="/wp-content/uploads/2020/01/abstract-architecture-art-art-exhibition-297494-150x150.jpg 150w, /wp-content/uploads/2020/01/abstract-architecture-art-art-exhibition-297494-scaled-300x300.jpg 300w, /wp-content/uploads/2020/01/abstract-architecture-art-art-exhibition-297494-scaled-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />				</div>
+			</div>
+			<div class="right">
+				<h2 class="entry-title">Saks Gallery Showing</h2>
+				<div class="entry-summary">
+					<p>Location Date February 21, 2018 Time 2:30 PM &#8211; 5:00 PM Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur diam nulla, tempor ante ac, cursus eros. Nunc id mauris risus. Fusce sit amet elit commodo, maximus massa sed, imperdiet turpis. Phasellus vehicula vulputate purus et facilisis. Phasellus vehicula felis nisl, nec pulvinar ipsum [&hellip;]</p>
+				</div>
+				<!-- <div class="elementor-element elementor-align-right elementor-widget elementor-widget-button" data-element_type="widget" data-widget_type="button.default">
+					<div class="elementor-widget-container"> -->
+					<div class="align-right">
+
+						<div class="elementor-button-wrapper">
+							<a href="/2020/02/24/saks-gallery-showing/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+										<span class="elementor-button-content-wrapper">
+										<span class="elementor-button-icon elementor-align-icon-right">
+								<i aria-hidden="true" class="fas fa-angle-right"></i>			</span>
+										<span class="elementor-button-text uppercase">Read More</span>
+						</span>
+									</a>
+						</div>
+					</div>
+				</div>
+				<!-- </div>
+			</div> -->
+		</div>
+</div>
+<!-- // End of Post Wrap --></p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		]]></content:encoded>
+							<wfw:commentRss>/2020/02/24/saks-gallery-showing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
