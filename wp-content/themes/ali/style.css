@@ -188,3 +188,9 @@ header.page-header.background-image-page-header {
 .event-slider {
     height: fit-content!important;
 }
+
+#primary {
+    width: 100%!important;
+    border-right-width: 0px!important;
+
+}
