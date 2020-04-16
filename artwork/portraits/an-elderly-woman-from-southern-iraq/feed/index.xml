@@ -14,11 +14,22 @@
 	<atom:link href="http://localhost/ali-site/artwork/portraits/an-elderly-woman-from-southern-iraq/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.visuallyroxanne.com/alighassan</link>
 	<description></description>
-	<lastBuildDate>Mon, 24 Feb 2020 00:23:29 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Apr 2020 20:22:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.3.2</generator>
-</channel>
+			<item>
+				<title>
+				By: roxanne				</title>
+				<link>http://www.visuallyroxanne.com/alighassan/artwork/portraits/an-elderly-woman-from-southern-iraq/#comment-2</link>
+		<dc:creator><![CDATA[roxanne]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2020 17:22:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.visuallyroxanne.com/alighassan/?page_id=208#comment-2</guid>
+					<description><![CDATA[Great picture!]]></description>
+		<content:encoded><![CDATA[<p>Great picture!</p>
+]]></content:encoded>
+						</item>
+			</channel>
 </rss>
